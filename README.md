@@ -37,3 +37,5 @@ Caption: SpacetimeDB powers Traycer’s waste tracking and live AI cafeteria sim
 **Alt text:** Traycer mobile video call with a blond AI chef avatar in a white chef coat against a teal background, with the caller’s camera preview in the lower-left corner.
 
 **Caption:** Talk to Traycer’s AI chef through a video call to explore recipes and ways to reduce cafeteria food waste.
+
+Horizontal version: https://raw.githubusercontent.com/at350/traycer-devpost-assets/main/ai-chef-video-call-horizontal.png
