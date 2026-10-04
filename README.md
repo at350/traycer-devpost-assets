@@ -29,3 +29,11 @@ Caption: SpacetimeDB powers Traycer’s waste tracking and live AI cafeteria sim
 **Alt text:** Traycer architecture diagram showing camera observations flowing into SpacetimeDB, an authoritative AI cafeteria simulation with live 3D subscriptions, and an application-level bridge connecting evidence to simulation tests.
 
 **Caption:** SpacetimeDB powers Traycer’s path from real tray observations to a live AI cafeteria simulation. Two cloud modules span 25 tables and three identity-dependent views: one stores camera evidence and atomic waste totals; the other runs the authoritative simulation with scheduled reducers, durable AI decision jobs, and WebSocket subscriptions to the 3D client. An application-level bridge carries reviewed evidence into repeatable simulation tests.
+
+## AI chef video call
+
+**Image src:** https://raw.githubusercontent.com/at350/traycer-devpost-assets/main/ai-chef-video-call.png
+
+**Alt text:** Traycer mobile video call with a blond AI chef avatar in a white chef coat against a teal background, with the caller’s camera preview in the lower-left corner.
+
+**Caption:** Talk to Traycer’s AI chef through a video call to explore recipes and ways to reduce cafeteria food waste.
